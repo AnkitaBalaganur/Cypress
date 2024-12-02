@@ -1,0 +1,5 @@
+.env
+node_modules/
+*logs
+*percy.cy.js
+cypress/reports/mochawesome/snapshots/

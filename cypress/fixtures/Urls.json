@@ -1,0 +1,24 @@
+{
+  "_comment": "Need to update URLs in baseUrls and product categories",
+  "baseUrls": {
+    "prod": "",
+    "staging": ""
+  },
+  "products": {
+    "Chain": {
+      "Male": "",
+      "Female": "",
+      "Kid": ""
+    },
+    "Ring": {
+      "Male": "",
+      "Female": "",
+      "Kid": ""
+    },
+    "Bracelet": {
+      "Male": "",
+      "Female": "",
+      "Kid": ""
+    }
+  }
+}
